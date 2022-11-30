@@ -1,3 +1,0 @@
-Tan David Nathanael Aryono : G.231.20.0175 : Semarang
-Mata Kuliah : Open Source System
-Catatan : Praktikum dengan menggunakan GIT
